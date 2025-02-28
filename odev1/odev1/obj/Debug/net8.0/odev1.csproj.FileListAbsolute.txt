@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\odev1.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\odev1.AssemblyInfo.cs
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\odev1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\odev1.sourcelink.json
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\bin\Debug\net8.0\odev1.exe
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\bin\Debug\net8.0\odev1.deps.json
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\bin\Debug\net8.0\odev1.runtimeconfig.json
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\bin\Debug\net8.0\odev1.dll
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\bin\Debug\net8.0\odev1.pdb
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\odev1.dll
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\refint\odev1.dll
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\odev1.pdb
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\odev1.genruntimeconfig.cache
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\odev1\odev1\obj\Debug\net8.0\ref\odev1.dll
