@@ -1,0 +1,35 @@
+﻿
+ARRAY (DIZI) NEDIR?
+
+Dizi (Array), aynı türdeki verileri bir arada saklayabilen bir veri yapısıdır. 
+Yani, diziler birden fazla veriyi tek bir değişkende tutmak için kullanılır.
+Dizi, bir türdeki birden fazla öğeyi sıralı bir şekilde saklamanızı sağlar. Dizideki her öğe bir indeks ile erişilebilir. 
+Bu indeks, öğenin dizideki sırasını belirler ve sıfırdan başlar.
+Eğer bir dizide 50 sayı saklıyorsanız, bu sayılara d = {d[0], d[1], d[2], d[3], d[4], ….. , d[49]} şeklinde ulaşabilirsiniz.
+Döngüler ile birlikte kullanıldığında, toplu işlemler yapmayı kolaylaştırır.
+     
+     * Dizi (Array), aynı türdeki verileri bir arada tutmanıza yarayan bir yapıdır.
+     * Dizinin her elemanına indeks (başlangıç değeri 0) ile ulaşılır.
+     * Dizinin boyutunu belirtirken, dizinin kaç elemanlı olduğunu belirtmeniz gerekir.
+     * Bir diziye değer atamak için, new anahtar kelimesi ile dizi oluşturulur ve boyutu belirlenir.
+     * Bir dizinin boyutunu .Length özelliği ile öğrenebiliriz.
+     * Dizi elemanlarını yazdırmak için genellikle bir döngü kullanılır.
+
+       Array neden kullanılır
+          -Çok fazla sayıda verinin bilgisayara girilmesi, hızlı bir şekilde işlenebilmesi, uygun şekilde saklanabilmesi için Array kullanılır.
+
+
+Array’ler üç başlık altında incelenebilir.
+
+1-Tek Boyutlu Arrayler: “Vektör” olarak adlandırılan ve tek satırdan oluşan array sistemidir. (Benzer öğeler dizisidir.)
+2-İki Boyutlu Arrayler: “Matris” olarak adlandırılan ve satır-sütun ilişkisi bulunan array sistemidir.
+3-Çok Boyutlu Arrayler: Üç veya daha fazla boyutlu arrayler.
+
+Arrayler’in uzunluk bildirimi yapıldığında bellekte sabit bir yer ayırılır.
+
+Array’in Dezavantajları
+ *Array’in uzunluğu değiştirilemez. Bunun için ana bellekte yeni bir nesne tanımlanmalıdır.
+ *Array’in veri tipi tektir. Birbirinden farklı veri tipi atanamaz.
+
+C# programlama dilinde diziler, veri koleksiyonlarını yönetmek için güçlü araçlardır. 
+Veri setleri üzerinde işlem yaparken, dizilerin sağladığı yapısal avantajlar sayesinde kodunuz daha düzenli ve anlaşılır hale gelir.
