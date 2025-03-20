@@ -1,0 +1,34 @@
+﻿
+
+C#’ta Garbage Collector (GC) Nedir?
+
+Garbage Collector (Çöp Toplayıcı) Nedir ve Nasıl Çalışır?
+Garbage Collector (GC), C# ve .NET platformunda bellek yönetimini otomatik olarak gerçekleştiren bir mekanizmadır. C#’ta nesneler heap (yığın) bellekte oluşturulur ve program çalışırken gereksiz hale gelen nesneler bellekte yer kaplamaya devam eder. Garbage Collector, kullanılmayan nesneleri tespit ederek otomatik olarak temizler ve bellek sızıntılarını (Memory Leak) önler.
+
+GC Nasıl Çalışır?
+Garbage Collector’ın çalışma süreci üç temel adımdan oluşur:
+
+Root Analysis (Kök Analizi):
+
+GC, kullanılabilir (erişilebilir) nesneleri belirler.
+Erişilmeyen nesneler "çöp" olarak işaretlenir.
+Mark & Sweep (İşaretleme ve Temizleme):
+
+Kullanılmayan nesneler bellekten temizlenir.
+Compact (Büzüştürme):
+
+Bellek düzenlenerek boş alanlar sıkıştırılır.
+Böylece bellek parçalanması (fragmentation) önlenir.
+Bellek Yönetimindeki Rolü:
+Manuel bellek yönetimi ihtiyacını ortadan kaldırır (C gibi dillerde malloc() ve free() ile yapılan işlemler otomatik hale gelir).
+Bellek sızıntılarını (Memory Leak) önler, gereksiz nesneleri temizler.
+.NET framework içinde üç nesil (Generation 0, 1, 2) kullanarak verimli çalışır:
+Generation 0: Yeni oluşturulan nesneler buraya yerleştirilir.
+Generation 1: Orta süreli kullanılan nesneler buraya taşınır.
+Generation 2: Uzun süre kullanılan nesneler buraya aktarılır.
+Garbage Collector Çağırma (GC Manual Kullanımı)
+Genellikle GC otomatik çalışır ancak GC.Collect() metodu ile manuel olarak çağrılabilir
+⚠ Ancak gereksiz GC çağrıları performansı olumsuz etkileyebilir, bu yüzden genellikle GC'nin otomatik çalışmasına izin vermek en iyi yaklaşımdır.
+
+Sonuç:
+Garbage Collector, bellek yönetimini otomatik yaparak geliştiricinin manuel bellek temizleme ihtiyacını ortadan kaldırır ve programın verimli çalışmasını sağlar.

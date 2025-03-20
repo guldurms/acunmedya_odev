@@ -1,0 +1,41 @@
+﻿
+
+Generic Class’lar ve Generic Method’lar (Boxing & Unboxing)
+1️⃣ Generic Yapıların Avantajları
+Generic yapılar, C#’ta farklı veri tipleriyle çalışabilen esnek ve tekrar kullanılabilir kodlar yazmayı sağlar.
+
+✔ Generic Kullanmanın Avantajları:
+
+Tür Güvenliği (Type Safety):
+
+Derleme zamanında tür denetimi yapılarak hataların önüne geçilir.
+Yanlış tür dönüşümlerini (casting hatalarını) önler.
+Kod Tekrarını Azaltır:
+
+Farklı veri türleri için aynı işlemi yapan tekrar kullanılabilir kodlar yazmayı sağlar.
+Performansı Artırır:
+
+Boxing & Unboxing olmadan çalışır, böylece gereksiz bellek ve işlem yükünü önler.
+Özellikle koleksiyonlarla çalışırken bellek yönetimini iyileştirir.
+
+2️-Generic Sınıf ve Metotlarla Esnek Programlama
+Generic sınıflar ve metotlar, farklı türlerle çalışabilen kod blokları yazmaya olanak tanır.
+
+3️-Boxing & Unboxing Nedir ve Performansa Etkisi
+📌 Boxing (Kutulama)
+Değer türlerinin (int, double, bool) referans türüne (object) dönüştürülmesi işlemidir.
+Unboxing (Kutudan Çıkarma)
+Referans türündeki (object) bir değişkenin tekrar değer türüne (int, double vb.) çevrilmesidir.
+
+Boxing & Unboxing’in Performansa Etkisi
+🔴 Boxing ve Unboxing işlemleri performansı düşürür çünkü:
+
+Ekstra bellek tahsisi gerektirir.
+Tür dönüşümleri ek işlem yükü oluşturur.
+Özellikle koleksiyonlarla çalışırken verimsizdir.
+⚡ Çözüm: Generic kullanarak Boxing & Unboxing’i önleyebiliriz.
+
+📌 SONUÇ:
+✅ Generic yapılar, kod tekrarını azaltır, tür güvenliği sağlar ve Boxing & Unboxing’i önleyerek performansı artırır.
+✅ Generic sınıflar ve metotlar, esnek ve verimli programlama yapmayı sağlar.
+✅ Boxing & Unboxing işlemleri gereksiz bellek kullanımı ve performans kaybına yol açar, bu yüzden generic yapıların tercih edilmesi en iyi uygulamadır.
