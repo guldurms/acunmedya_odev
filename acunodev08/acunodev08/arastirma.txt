@@ -1,0 +1,55 @@
+﻿
+Görsel Programlama Nedir?
+Görsel programlama; program yazarken kod satırları yerine görsel nesneler, kutular, simgeler ve çizimlerle işlem yapılan bir programlama türüdür. 
+Bu yöntemde genellikle fare ile nesneler sürüklenip bırakılır ve arayüzler kolayca oluşturulur.
+
+Görsel programlamanın metin tabanlı programlamadan farkları şunlardır:
+
+Görsel programlamada kod yerine görsel bileşenler (buton, kutu, pencere vb.) kullanılır.
+Kullanıcı işlemleri sürükle-bırak yöntemiyle yapar.
+Genellikle başlangıç seviyesi için daha kolay ve anlaşılırdır.
+Hatalar genelde arayüzde daha belirgin şekilde görünür.
+Form tasarımları hızlı ve kolay bir şekilde oluşturulabilir.
+Metin tabanlı programlamada her şey elle yazılan komutlardan oluşur.
+Metin tabanlı programlama daha fazla esneklik sunar ve büyük projelerde tercih edilir.
+Kod bilgisi daha derin olduğu için hata takibi daha zordur ama daha güçlüdür.
+
+Kısaca Örnek:
+
+Görsel programlamaya örnek olarak Visual Studio programında C# ile Form uygulaması yapmak gösterilebilir.
+Metin tabanlı programlamaya ise Python veya C dili ile sadece kod yazarak yapılan çalışmalar örnek verilebilir.
+Görsel Programlamada Kullanılan Araçlar ve Diller Nelerdir?
+Görsel programlama yaparken kullanılan bazı araçlar (programlar) ve bu programlarda kullanılan diller şunlardır:
+
+Görsel Programlama Araçları:
+
+Microsoft Visual Studio: En çok bilinen görsel programlama ortamlarından biridir. C# ve VB.NET dilleri ile çalışılır.
+MIT App Inventor: Mobil uygulama geliştirmek isteyenler için tasarlanmış, blok tabanlı görsel programlama platformudur.
+Scratch: Özellikle çocuklar için geliştirilmiş, sürükle-bırak mantığıyla çalışan çok basit bir görsel programlama aracıdır.
+Delphi (Embarcadero RAD Studio): Özellikle eski dönemlerde Windows uygulamaları geliştirmek için sıkça kullanılmış bir araçtır.
+Lazarus: Delphi’ye benzeyen açık kaynak kodlu bir görsel programlama ortamıdır.
+
+Görsel Programlamada Kullanılan Programlama Dilleri:
+
+C# (C Sharp): Visual Studio ortamında en çok kullanılan görsel programlama dillerinden biridir.
+VB.NET (Visual Basic .NET): Yine Visual Studio’da kullanılan başka bir dil.
+Java: Android Studio gibi ortamlarda, XML ile birlikte görsel uygulamalar yapılabilir.
+Python (Tkinter kütüphanesiyle): Python dili kullanılarak görsel arayüzler oluşturulabilir ama genelde metin tabanlıdır.
+
+Görsel Programlamanın Avantajları ve Dezavantajları Nelerdir?
+
+Avantajları:
+
+Program arayüzü oluşturmak oldukça kolay ve hızlıdır.
+Kod yazmayı bilmeyen kişiler bile sürükle-bırak yöntemiyle basit uygulamalar geliştirebilir.
+Hatalar daha görsel ve anlaşılır şekilde görülebilir.
+Eğitim amaçlı kullanımlarda özellikle yeni başlayanlar için oldukça uygundur.
+Arayüz ve tasarım odaklı projelerde zamandan tasarruf sağlar.
+
+Dezavantajları:
+
+Gelişmiş ve büyük projelerde yetersiz kalabilir.
+Kodlama mantığını tam olarak öğretmediği için öğrenme sürecinde eksiklik yaratabilir.
+Sadece görsellikle sınırlı olduğu için karmaşık algoritmalarda zorlanılır.
+Bazen sistem kaynaklarını fazla kullanabilir (özellikle görsel araçlar yoğun kullanıldığında).
+Her görsel programlama aracı her platformda çalışmayabilir.
