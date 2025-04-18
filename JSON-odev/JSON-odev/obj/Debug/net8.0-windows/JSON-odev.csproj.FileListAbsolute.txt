@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\bin\Debug\net8.0-windows\urunler.json
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\bin\Debug\net8.0-windows\JSON-odev.exe
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\bin\Debug\net8.0-windows\JSON-odev.deps.json
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\bin\Debug\net8.0-windows\JSON-odev.runtimeconfig.json
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\bin\Debug\net8.0-windows\JSON-odev.dll
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\bin\Debug\net8.0-windows\JSON-odev.pdb
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON_odev.Form1.resources
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON-odev.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON-odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON-odev.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON-odev.AssemblyInfo.cs
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON-odev.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON-odev.dll
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\refint\JSON-odev.dll
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON-odev.pdb
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\JSON-odev.genruntimeconfig.cache
+C:\Users\acer\Desktop\acunmedya\acunmedya_odev\JSON-odev\JSON-odev\obj\Debug\net8.0-windows\ref\JSON-odev.dll

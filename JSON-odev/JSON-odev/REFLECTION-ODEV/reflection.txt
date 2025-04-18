@@ -1,0 +1,40 @@
+﻿
+Reflection Nedir?
+Reflection, C# dilinde bir nesnenin tipini (sınıf, metod, özellik vb.) çalışma anında (runtime) öğrenmemizi ve üzerinde işlem yapmamızı sağlayan yapıdır.
+
+Ne İşe Yarar?
+Bir sınıfın adını, metodlarını, özelliklerini ve yapıcı metodlarını çalışma zamanında öğrenip kullanmamıza olanak tanır.
+
+Özellikle dinamik uygulamalarda, eklenti (plugin) sistemlerinde ve test sistemlerinde sıkça kullanılır.
+
+Örnek:
+
+using System;
+using System.Reflection;
+
+class Ogrenci
+{
+    public string Ad { get; set; }
+    public int Yas { get; set; }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Type tip = typeof(Ogrenci); // Ogrenci sınıfının tipi
+
+        Console.WriteLine("Ogrenci sınıfındaki özellikler:");
+        foreach (PropertyInfo ozellik in tip.GetProperties())
+        {
+            Console.WriteLine(ozellik.Name); // Özellik adını yazdır
+        }
+    }
+}
+
+
+Çıktı:
+
+Ogrenci sınıfındaki özellikler:
+Ad
+Yas
